@@ -1,65 +1,56 @@
-📁 LinkPi - Página de Links Úteis
+Shivazen – Site de Apresentação
 
-📝 Descrição
-O LinkPi é uma página web simples e responsiva que centraliza links importantes e documentos do projeto Shivazen em um único local de fácil acesso.
+## Sobre o Projeto
 
-✨ Funcionalidades
-Interface limpa e moderna
+Este repositório contém o site de apresentação do projeto Shivazen, uma página web simples e responsiva desenvolvida para centralizar e disponibilizar todos os materiais relacionados ao projeto em um único local de fácil acesso.
 
-Design responsivo (funciona bem em celulares e computadores)
+O site funciona como um hub de informações, reunindo links para o projeto principal, documentação técnica (diagramas, casos de uso, modelo relacional, requisitos) e demais recursos relevantes para a compreensão e acompanhamento do ecossistema Shivazen.
 
-Links organizados em cards clicáveis
+## Repositórios e Links
 
-Visualização de documentos diretamente no navegador (PDFs e imagens)
+| Recurso | Link |
+|---------|------|
+| Site de Apresentação (este repositório) | [https://github.com/StefanyCarso/apresentacao_shivazen](https://github.com/StefanyCarso/apresentacao_shivazen) |
+| Site de Apresentação (deploy) | [https://shivazen.netlify.app/](https://shivazen.netlify.app/) |
+| Template Front-end | [https://github.com/StefanyCarso/template_shivazen](https://github.com/StefanyCarso/template_shivazen) |
+| Projeto Principal | [https://github.com/RafaelSMaciel/shivazen-app](https://github.com/RafaelSMaciel/shivazen-app) |
 
-📂 Estrutura de Arquivos
-LinkPi/
-├── index.html          # Página principal
-├── css/
-│   └── style.css       # Estilos da página
-├── img/
-│   └── logo.png        # Logo do projeto
-├── docs/               # Documentos do projeto
-│   ├── UML.jpg
-│   ├── CasosDeUso.pdf
-│   ├── ModeloRelacional.pdf
-│   └── RequisitosFuncionais.pdf
-└── README.md           # Este arquivo
+## Conteúdo Disponibilizado
 
-🔗 Links Disponíveis
+O site organiza e disponibiliza os seguintes materiais:
 
-Site Shivazen - Site principal da clínica
+- **Site Shivazen** – Acesso ao projeto principal
+- **Diagrama UML** – Visualização da modelagem estrutural do sistema
+- **Casos de Uso** – Documentação detalhada dos casos de uso
+- **Modelo Relacional** – Estrutura e relacionamentos do banco de dados
+- **Requisitos Funcionais e Não Funcionais** – Especificação completa dos requisitos do sistema
+- **Artigo Acadêmico** – Publicação relacionada ao projeto
 
-Diagrama UML - Visualização do diagrama UML
+## Tecnologias Utilizadas
 
-Casos de Uso - Documentação de casos de uso
+- HTML5
+- CSS3 (com Flexbox e Media Queries)
+- Design Responsivo
 
-Modelo Relacional - Estrutura do banco de dados
+## Agradecimentos
 
-Requisitos Funcionais e não funcionais - Lista de requisitos do sistema
+Este projeto de apresentação foi desenvolvido para consolidar e divulgar os materiais do ecossistema Shivazen. Agradecemos a todos que contribuíram direta ou indiretamente para sua realização:
 
-🛠️ Tecnologias Utilizadas
-HTML5
+- **Stefany Cardoso** – Pela criação, estruturação e manutenção deste site de apresentação, bem como pela organização dos materiais e documentação do projeto.
 
-CSS3 (com Flexbox e Media Queries)
+- **Comunidade acadêmica e de desenvolvimento** – Pelas referências, ferramentas e recursos que subsidiaram a elaboração dos diagramas, documentos e demais artefatos técnicos aqui reunidos.
 
-Design Responsivo
+## Licença
 
-🚀 Como Usar
-Clone o repositório:
+Este projeto é de uso interno do ecossistema Shivazen. Todos os direitos reservados.
 
-bash
-git clone https://github.com/StefanyCarso/LinkPi.git
-Abra o arquivo index.html no navegador
+---
 
-Ou acesse diretamente pelo Netlify: https://shivazen.netlify.app
+**Status:** Em manutenção contínua  
+**Última atualização:** Novembro de 2025
 
-🌐 Deploy
-O projeto está configurado para deploy contínuo no Netlify. Qualquer push para a branch main no GitHub atualiza automaticamente o site.
+---
 
-📄 Licença
-Este projeto é para uso interno da Shivazen. Todos os direitos reservados.
-
-Desenvolvido por Stefany Cardoso
-📧 Contato: stefanycarso@yahoo.com.br
-🔗 GitHub: https://github.com/StefanyCarso
+**Desenvolvido por:** Stefany Cardoso  
+**Contato:** stefanycarso@yahoo.com.br  
+**GitHub:** https://github.com/StefanyCarso
